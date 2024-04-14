@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nothings</string>
+
+    <string name="name">Name</string>
+    <string name="done">Done</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="note">Note</string>
+    <string name="description">Nothings - An expense manager is an application designed to help individuals and businesses manage their expenses efficiently. The primary feature of an expense manager application is expense tracking. The application provides a digital platform for users to track their expenses, analyze spending, and manage their finances.</string>
+</resources>
