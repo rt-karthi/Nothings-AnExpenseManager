@@ -1,4 +1,4 @@
-<center><h1>Nothigs - An Expense Manager</h1></center>
+<center><h1>Nothings - An Expense Manager</h1></center>
 <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/rt-karthi/Nothings-AnExpenseManager/blob/main/Screenshot/Screenshot_2023-04-21-10-10-40-705_com.example.nothings.jpg" alt="Screenshot 1" width="250" height="400">
     <img src="https://github.com/rt-karthi/Nothings-AnExpenseManager/blob/main/Screenshot/Screenshot_2023-04-21-10-10-44-167_com.example.nothings.jpg" alt="Screenshot 2" width="250" height="400">
